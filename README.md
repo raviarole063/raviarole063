@@ -50,10 +50,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raviarole063&show_icons=true&locale=en&layout=compact" alt="top languages" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=raviarole063&show_icons=true&locale=en" alt="GitHub stats" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raviarole063&" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raviarole063&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raviarole063&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" height="200"/>
 </p>
