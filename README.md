@@ -46,9 +46,9 @@
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raviarole063&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
+</p> -->
 
 ---
 
@@ -61,11 +61,11 @@
 ---
 
 ### 🚀 Featured Projects
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/raviarole063/your-best-repo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviarole063&repo=your-best-repo&theme=tokyonight" />
   </a>
   <a href="https://github.com/raviarole063/another-repo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviarole063&repo=another-repo&theme=tokyonight" />
   </a>
-</p>
+</p> -->
