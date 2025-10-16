@@ -15,8 +15,8 @@
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
+### 🌐 Connect with Me
+<p align="left">
   <a href="https://www.linkedin.com/in/ravi-arole-645691233/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
@@ -24,8 +24,8 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
-<p align="center"> 
+### 🛠️ Languages and Tools
+<p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
@@ -48,12 +48,10 @@
 
 ---
 
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raviarole063&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raviarole063&show_icons=true&locale=en" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raviarole063&show_icons=true&locale=en&layout=compact" alt="top languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raviarole063&show_icons=true&locale=en" alt="GitHub stats" height="180"/>
 </p>
 
 <p align="center">
