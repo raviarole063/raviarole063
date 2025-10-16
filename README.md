@@ -1,7 +1,7 @@
 ![MasterHead](https://i.gifer.com/Ry6p.gif)
 <h1 align="center">Hi 👋, I'm Ravi Arole</h1>
 <h3 align="center">Developer | Forever Evolving</h3>
-<img align="right" alt="Coding" width="400" src="https://shorturl.at/haeAQ">
+<!-- <img align="right" alt="Coding" width="400" src="https://shorturl.at/haeAQ"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviarole063&label=Profile%20views&color=0e75b6&style=flat" alt="raviarole063" /> </p>
 
 - 🌱 I’m currently learning **Web Technologies**
