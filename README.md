@@ -1,4 +1,7 @@
-![MasterHead](https://i.gifer.com/Ry6p.gif)
+<div align="center">
+  <img src="https://i.gifer.com/Ry6p.gif" alt="MasterHead" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Ravi Arole</h1>
 <h3 align="center">Developer | Forever Evolving</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://shorturl.at/haeAQ"> -->
