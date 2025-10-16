@@ -4,38 +4,9 @@
 
 <h1 align="center">Hi 👋, Welcome to My GitHub</h1>
 
-<!-- Custom Typing Animation -->
+<!-- Typing SVG -->
 <p align="center">
-  <svg width="600" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .step { opacity: 0; }
-      @keyframes show { 0% { opacity: 0; } 100% { opacity: 1; } }
-      /* Sequence timings */
-      #s1 { animation: show 0.001s linear 0s forwards; }
-      #s2 { animation: show 0.001s linear 1s forwards; }
-      #s3 { animation: show 0.001s linear 2s forwards; }
-      #s4 { animation: show 0.001s linear 3s forwards; }
-      #s5 { animation: show 0.001s linear 4s forwards; }
-      #s6 { animation: show 0.001s linear 6s forwards; }
-      #s7 { animation: show 0.001s linear 7s forwards; }
-
-      @keyframes blink { 0%,49%{opacity:1;} 50%,100%{opacity:0;} }
-      .cursor { animation: blink 0.8s steps(1,end) infinite; }
-
-      text { font-family: 'Fira Code', monospace; font-size: 22px; fill: #00F7FF; }
-    </style>
-
-    <!-- Build → Break → Learn -->
-    <g id="s1" class="step"><text x="10" y="35">Build</text></g>
-    <g id="s2" class="step"><text x="10" y="35">Build</text><text x="75" y="35" class="cursor">|</text></g>
-    <g id="s3" class="step"><text x="10" y="35">Build Break</text></g>
-    <g id="s4" class="step"><text x="10" y="35">Build Break</text><text x="175" y="35" class="cursor">|</text></g>
-    <g id="s5" class="step"><text x="10" y="35">Build Break Learn</text></g>
-
-    <!-- Developer -->
-    <g id="s6" class="step"><text x="10" y="35">Developer</text></g>
-    <g id="s7" class="step"><text x="10" y="35">Developer</text><text x="115" y="35" class="cursor">|</text></g>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Build;Build+%7C;Build+Break;Build+Break+%7C;Build+Break+Learn;Developer;Developer+%7C;Developer+%7C+Evolving+Forever" alt="Typing SVG" />
 </p>
 
 <p align="center">
