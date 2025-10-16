@@ -49,34 +49,7 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-
-  <!-- Top Languages Card -->
-  <div style="text-align: center;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raviarole063&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
-    </a>
-    <h3 style="margin-top:10px; font-size:18px; font-weight:bold; 
-               background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet); 
-               -webkit-background-clip: text; 
-               -webkit-text-fill-color: transparent; 
-               transition: all 0.4s ease-in-out;">
-      Hover Me 🌈
-    </h3>
-  </div>
-
-  <!-- GitHub Stats Card -->
-  <div style="text-align: center;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=raviarole063&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="200"/>
-    </a>
-    <h3 style="margin-top:10px; font-size:18px; font-weight:bold; 
-               background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet); 
-               -webkit-background-clip: text; 
-               -webkit-text-fill-color: transparent; 
-               transition: all 0.4s ease-in-out;">
-      Hover Me 🌈
-    </h3>
-  </div>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raviarole063&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raviarole063&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" height="200"/>
+</p>
