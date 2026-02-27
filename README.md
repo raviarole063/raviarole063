@@ -17,7 +17,7 @@
 ### 🌱 About Me
 
 - 🎯 **Aspiring Data Engineer** transitioning into cloud data engineering on **Microsoft Azure**
-- 🗄️ **1.5 years of experience in SQL** - writing queries, data analysis, and database management
+- 🗄️ **1.5 years of experience in SQL** — writing queries, data analysis, and database management
 - 🏗️ Built an end-to-end **NYC Green Taxi Lakehouse** using Azure Databricks, ADF, Delta Lake & Unity Catalog
 - ⚡ Passionate about **Medallion Architecture**, incremental ingestion, and data quality
 - 📚 Currently deepening expertise in **PySpark**, **dbt**, and **streaming pipelines**
@@ -32,6 +32,8 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 **Data & Storage**
