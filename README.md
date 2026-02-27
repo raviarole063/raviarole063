@@ -28,16 +28,14 @@
 
 > End-to-end Azure Lakehouse pipeline processing NYC TLC taxi data through a Medallion Architecture
 
-| Layer | Technology | Pattern |
-|-------|-----------|---------|
-| **Ingestion** | Azure Data Factory | HTTP → ADLS Gen2, ForEach loop |
-| **Bronze** | Databricks + Auto Loader | Incremental, Checkpoint-based |
-| **Silver** | PySpark + Delta Lake | MERGE Upsert, SCD Type-2, Cleansing |
-| **Gold** | Delta Lake (Managed Table) | Aggregated KPIs, daily_trip_summary |
-| **Reporting** | Power BI DirectQuery | Live dashboards from Gold layer |
-| **Governance** | Unity Catalog | External Locations, RBAC, 2x Access Connectors |
-| **Security** | Azure Key Vault | Service Principal, Secret Scope |
-| **CI/CD** | GitHub + Databricks Repos | Version controlled notebooks & modules |
+- **Ingestion** — Azure Data Factory · HTTP → ADLS Gen2 · ForEach loop
+- **Bronze** — Databricks Auto Loader · Checkpoint-based incremental ingestion
+- **Silver** — PySpark · MERGE Upsert · SCD Type-2 · Data Cleansing
+- **Gold** — Delta Lake Managed Table · Aggregated KPIs · daily_trip_summary
+- **Reporting** — Power BI DirectQuery · Live dashboards from Gold layer
+- **Governance** — Unity Catalog · External Locations · RBAC · 2x Access Connectors
+- **Security** — Azure Key Vault · Service Principal · Databricks Secret Scope
+- **CI/CD** — GitHub · Databricks Repos · Version controlled notebooks & modules
 
 📁 **[View Project Repository →](https://github.com/raviarole063/nyc-taxi-project)**
 
@@ -69,34 +67,10 @@
 
 ---
 
-### 🔑 Key Engineering Concepts I Apply
-
-```
-✅ Medallion Architecture     (Landing → Bronze → Silver → Gold)
-✅ Idempotent Pipelines        (Auto Loader + Checkpoint + MERGE Upsert)
-✅ SCD Type-2                  (taxi_zone_lookup with effective/end dates)
-✅ Incremental Loads           (3-month lag logic, get_filtered_dataframe())
-✅ Data Quality Checks         (negative fare filter, stray year removal)
-✅ Unity Catalog Governance    (External vs Managed tables, RBAC)
-✅ Secret Management           (Key Vault + Databricks Secret Scope)
-✅ Delta Time Travel           (DESCRIBE HISTORY, VERSION AS OF)
-```
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ravi-arole-645691233/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raviarole063&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=raviarole063&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" height="200"/>
 </p>
