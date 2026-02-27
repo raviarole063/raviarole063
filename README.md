@@ -17,7 +17,7 @@
 ### 🌱 About Me
 
 - 🎯 **Aspiring Data Engineer** transitioning into cloud data engineering on **Microsoft Azure**
-- 🗄️ **1.5 years of experience in SQL** — writing queries, data analysis, and database management
+- 🗄️ **1.5 years of experience in SQL** - writing queries, data analysis, and database management
 - 🏗️ Built an end-to-end **NYC Green Taxi Lakehouse** using Azure Databricks, ADF, Delta Lake & Unity Catalog
 - ⚡ Passionate about **Medallion Architecture**, incremental ingestion, and data quality
 - 📚 Currently deepening expertise in **PySpark**, **dbt**, and **streaming pipelines**
