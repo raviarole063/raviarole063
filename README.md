@@ -16,28 +16,12 @@
 
 ### 🌱 About Me
 
-- 🔧 **Data Engineer** focused on building scalable cloud data pipelines on **Microsoft Azure**
+- 🎯 **Aspiring Data Engineer** transitioning into cloud data engineering on **Microsoft Azure**
+- 🗄️ **1.5 years of experience in SQL** — writing queries, data analysis, and database management
 - 🏗️ Built an end-to-end **NYC Green Taxi Lakehouse** using Azure Databricks, ADF, Delta Lake & Unity Catalog
 - ⚡ Passionate about **Medallion Architecture**, incremental ingestion, and data quality
 - 📚 Currently deepening expertise in **PySpark**, **dbt**, and **streaming pipelines**
 - 💡 I believe in writing pipelines that are **idempotent, testable, and production-grade**
-
----
-
-### 🚀 Featured Project — NYC Green Taxi Data Engineering Pipeline
-
-> End-to-end Azure Lakehouse pipeline processing NYC TLC taxi data through a Medallion Architecture
-
-- **Ingestion** — Azure Data Factory · HTTP → ADLS Gen2 · ForEach loop
-- **Bronze** — Databricks Auto Loader · Checkpoint-based incremental ingestion
-- **Silver** — PySpark · MERGE Upsert · SCD Type-2 · Data Cleansing
-- **Gold** — Delta Lake Managed Table · Aggregated KPIs · daily_trip_summary
-- **Reporting** — Power BI DirectQuery · Live dashboards from Gold layer
-- **Governance** — Unity Catalog · External Locations · RBAC · 2x Access Connectors
-- **Security** — Azure Key Vault · Service Principal · Databricks Secret Scope
-- **CI/CD** — GitHub · Databricks Repos · Version controlled notebooks & modules
-
-📁 **[View Project Repository →](https://github.com/raviarole063/nyc-taxi-project)**
 
 ---
 
